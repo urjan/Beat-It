@@ -1,3 +1,13 @@
 # Beat-It
 
-It was really exciting to participate at the first Makerthon Event held at the University of Pennsylvania. Our Team- 'Beat It!' designed a smart cost effective solution for remote monitoring of heart and detecting cardiac abnormalities using dry electrodes as sensors in a wearable undershirt and Raspberry Pi for sending data to the cloud via Thingspeak Platform. The customized machine learning algorithm detects the heart rate patterns and detects any abnormalities in it and stores only the relevant 'good' data for actual medical checkup. The user can also manually alert the family and emergency services by sending text message in case of sudden cardiac arrest by just a press of a button. We built and improvised our product features in two days by taking the suggestions from the mentors from Penn Health Tech and Guests at the Rothberg Catalyzer Makerthon Event organized at Penn. 
+The web-end for the project Beat-It. The project was an entry to the Rothberg Caalyzer held at the University of Pennsylvania. 
+
+'Beat It!' is a smart cost effective solution for remote monitoring of heart and detecting cardiac abnormalities in a wearable undershirt
+
+It using dry electrodes as sensors and Raspberry Pi for sending data to the cloud via Thingspeak Platform. 
+
+Beat-It provides a two-step solution: 
+1. Continuosly detects and stores the cardiac rhythm when the user is wearing the unershirt. 
+2.The customized machine learning algorithm detects the heart rate patterns and  any abnormalities in it and stores only the relevant 'good' data for actual medical checkup.
+
+In case of severe abnormelities, an alert to the listed emergency-contacts and emergency services through a text message. 
